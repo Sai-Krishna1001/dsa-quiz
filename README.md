@@ -114,14 +114,14 @@ A. 🕰️ Create a new node with the value 10, change its next pointer to point
 
 B. 🧩 Create a new node with the value 10 and change its next pointer to point to the node with value 8.
 
-C. 🌟 Create a new node with the value 10, change its next pointer to point to the node with value 12, and update the next pointer of the node with value 8 to point to the new node.
+C. 🌟 Create a new node with the value 10, change its next pointer to point to the node with value 12, and update the next pointer of the node with value 8 to point to the new node, then update the next pointer of the node with value 12 to point to the new node.
 
-D. 😅 Create a new node with the value 10, change its next pointer to point to the node with value 12, and update the next pointer of the node with value 8 to point to the new node, then update the next pointer of the node with value 12 to point to the new node.
+D. 😅 Create a new node with the value 10, change its next pointer to point to the node with value 18, and update the next pointer of the node with value 8 to point to the new node, then update the next pointer of the node with value 12 to point to the new node.
 
 <details>
   <summary>Answer</summary>
 
-  Option C. 🪄 Create a new node with the value 10, change its next pointer to point to the node with value 12, and update the next pointer of the node with value 8 to point to the new node.
+  Option A. 🕰️ Create a new node with the value 10, change its next pointer to point to the node with value 12, and update the next pointer of the node with value 8 to point to the new node.
 
 </details>
 
